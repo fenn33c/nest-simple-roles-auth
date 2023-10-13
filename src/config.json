@@ -1,0 +1,16 @@
+{
+    "JWT": {
+        "expire_in": "60000s",
+        "secret": "pYxse7-dajcaz-jipmub"
+    },
+    "MONGO": {
+        "host": "test.ysyqp5u.mongodb.net",
+        "username": "root",
+        "password": "KCnKqVWx9a0FzFYW",
+        "database": "test"
+    },
+    "ADMIN": {
+        "username": "admin",
+        "password": "password"
+    }
+}
